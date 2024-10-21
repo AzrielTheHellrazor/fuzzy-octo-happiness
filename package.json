@@ -1,0 +1,14 @@
+{
+  "name": "fibrous-backend",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "fibrous-router-sdk": "^0.4.1"
+  }
+}
